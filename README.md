@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashiq Abhi</h1>
+<h1 align="center">Hi 👋, I'm Ashiq</h1>
 <h3 align="center">Full-Stack Web Developer | Love Everything about Code | Python Packed | Solve Problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqabhi&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqabhi" /> </p>
