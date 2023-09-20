@@ -1,3 +1,84 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{titlesec}
+
+\pagestyle{empty}
+
+% Adjust section and subsection formatting
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}[]
+\titleformat{\subsection}{\bfseries}{\thesubsection}{1em}{}[]
+\titlespacing*{\section}{0pt}{\parskip}{-\parskip}
+\titlespacing*{\subsection}{0pt}{\parskip}{-\parskip}
+
+\begin{document}
+\begin{center}
+    \textbf{\LARGE Asish Philip}\\
+    \vspace{5pt}
+    Trivandrum, Kerala\\
+    Email: \href{mailto:ashishabhiphilip26@gmail.com}{ashishabhiphilip26@gmail.com}\\
+    Phone: 9747123047\\
+    \href{https://github.com/AshiqAbhi/AshiqAbhi}{GitHub: github.com/AshiqAbhi}
+\end{center}
+
+\section*{Objective}
+Frontend Developer with 1 year of experience transitioning to a Python Developer role. Passionate about technology, problem-solving, and contributing to innovative projects.
+
+\section*{Education}
+\textbf{Master of Computer Applications (MCA)}\\
+Kerala University\\
+Year of Graduation: 2022
+
+\section*{Projects}
+\subsection*{E-commerce Site}
+- Developed a fully functional e-commerce website.
+- Utilized HTML, CSS, and JavaScript for front-end development.
+- Worked with Django framework for back-end development.
+- Managed databases using SQLite3, MySQL, and MongoDB.
+
+\section*{Experience}
+\textbf{Mobile Application Developer}\\
+National Informatics Center, Trivandrum\\
+September 2023 - Present
+\begin{itemize}
+    \item Collaborated with a team of developers to create mobile applications.
+    \item Contributed to designing and developing user-friendly interfaces.
+    \item Utilized Django framework for back-end development.
+\end{itemize}
+
+\section*{Tech Skills}
+\begin{itemize}
+    \item \textbf{Programming Languages:} Python
+    \item \textbf{Web Development:} HTML, CSS, JavaScript
+    \item \textbf{Database Management:} SQLite3, MySQL, MongoDB
+    \item \textbf{Framework:} Django
+\end{itemize}
+
+\section*{Hobbies}
+Designing, Animation, Photography, Gaming, Social Networking, Reading Blogs, Cycling, Technology Enthusiast, Problem Solving
+
+\section*{Soft Skills}
+Time Management, Public Speaking, Team Player, Fast Learner
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Ashiq</h1>
 <h3 align="center">Full-Stack Web Developer | Love Everything about Code | Python Packed | Solve Problems.</h3>
 
